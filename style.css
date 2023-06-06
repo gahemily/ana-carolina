@@ -1,4 +1,9 @@
-header { 
+.cabecalho { 
 background-color: #E2BCFA;
-color:white
+display: flex;
+justify-content: space-around;
 }
+
+.cabecalho-imagem { width: 10%;}
+.cabecalho-imagem-lista1 { width: 25%}
+.cabecalho-imagem-lista2 { width: 10%;}
